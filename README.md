@@ -2,10 +2,8 @@
 ## Movie Rating and Listing Application
 ---
 
-<br>
-
 ### <u>Contributors</u>
-<br>
+
 <a href="https://github.com/thisisakhilmurali/capstone-project-t9-foundation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=thisisakhilmurali/capstone-project-t9-foundation" />
 </a>
