@@ -12,7 +12,7 @@
 
 
 ### <u>Index</u>
-1. [Use Case Diagram](Team9__UseCaseDiagram.pdf)
+1. [Use Case Diagram](Team9__UseCase_Diagram.pdf)
 2. [ER Diagram](Team9__ER_Diagram.png)
 3. [Wireframe](Team9__Wireframe.pdf)
 4. [Use Case Document](Team9__UseCaseDocument.pdf)
