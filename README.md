@@ -17,3 +17,7 @@
 3. [Wireframe](Team9__Wireframe.pdf)
 4. [Use Case Document](Team9__UseCaseDocument.pdf)
 5. [Project Strucutre](Team9__Project_Structure.pdf)
+
+### <u>Application</u>
+  * [Frontend Repository](https://github.com/thisisakhilmurali/movie-rating-frontend)
+  * [Backend Repository](https://github.com/thisisakhilmurali/movie-rating-backend)
